@@ -17,7 +17,7 @@ The code in this repo meant to be a reference point for anyone following along w
 
 Each numbered folder in `stepped-solutions` contains the files for the beginning of each correspondingly numbered video, should you need them. So, if you need any code, pull the appropriate file into your `catch-of-the-day` folder.
 
-You are welcome to submit Pull Requests but I'd like to keep the code as similar as possible to the course content.
+You are welcome to submit Pull Requests, but I'd like to keep the code as similar as possible to the course content.
 
 ### Code Use
 
@@ -38,7 +38,7 @@ There may be a few different causes for this:
 
 #### :question: I get `permission_denied` warnings in my console when setting up Firebase
 
-Be sure to select "Realtime database" as as your database type inside Firebase. If you created your database as a Cloud Firestore type, you can change it in the Database tab.
+Be sure to select "Realtime database" as your database type inside Firebase. If you created your database as a Cloud Firestore type, you can change it in the Database tab.
 
 #### :question: I can't log in to the store after I deployed to Netlify/Apache
 
